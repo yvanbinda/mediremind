@@ -2,6 +2,9 @@
 
 A Flutter medication reminder app to help users track their medications.
 
+# Download APK
+Follow this link to download the apk release and the source code https://drive.google.com/drive/folders/19lc-kfjK2ds1n3BY2ykLG0_7o4zsVo44?usp=drive_link
+
 ## About the Project
 
 This app lets users add medications with dosage info, set reminders, and mark when they've taken them. It's built with Flutter for cross-platform support.
